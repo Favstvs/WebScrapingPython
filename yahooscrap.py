@@ -35,4 +35,6 @@ for i in range(0,10):
 
 for i in range(0, 10):
  print(names[i], prices[i], changes[i], percentChanges[i], marketCaps[i], totalVolumes[i], circulatingSupplys[i])
- 
+
+df=pd.DataFrame({"Names":names, "Prices":prices, "Changes":changes, "%Changes":percentChanges, "MarketCap":marketCaps, "Volume":totalVolumes, "Supplys":circulatingSupplys})
+print(df)
