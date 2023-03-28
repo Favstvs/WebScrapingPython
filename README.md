@@ -1,4 +1,8 @@
 # WebScrapingPython
 
 Raccolta di programmi in Python per il Web Scraping di Finanza, Economia, Cripto valute
-Librerie usate: BeautifulSoup, Pandas
+Librerie usate: 
+BeautifulSoup
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/
+Pandas
+https://pandas.pydata.org/
