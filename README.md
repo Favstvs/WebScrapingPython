@@ -1,6 +1,6 @@
 # WebScrapingPython
 
-<h1>Raccolta di programmi in Python per il Web Scraping di Finanza, Economia, Cripto valute</h1>
+<h1>Raccolta di programmi in Python per il Web Scraping di Finanza, Economia, Crypto valute</h1>
 
 Librerie usate: 
 
